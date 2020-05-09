@@ -4,4 +4,5 @@ demo for qt media player
 	depend on DirectShowPlayerService
 	install lav filter or k-lite
 
-跟Qt自己的Example比起来都是辣鸡，不如直接搞人家的
+laji demo:自己写的辣鸡demo，辣眼睛
+multimediawidgets: qt自带的example，后来发现的，各角度全方位秒杀辣鸡，按在地上摩擦
