@@ -1,4 +1,4 @@
-# qt_media_player
+﻿# qt_media_player
 demo for qt media player
 
 	depend on DirectShowPlayerService
@@ -6,3 +6,4 @@ demo for qt media player
 
 laji demo:自己写的辣鸡demo，辣眼睛
 multimediawidgets: qt自带的example，后来发现的，各角度全方位秒杀辣鸡，按在地上摩擦
+vlc player: 一个网上的qt-vlc player的例子，感觉过程上和qt很像
